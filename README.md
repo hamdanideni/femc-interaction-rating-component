@@ -22,7 +22,12 @@ Users should be able to:
 - Flexbox
 - Javascript
 
+### Links
+
+- Solution URL: [https://github.com/hamdanideni/femc-interaction-rating-component](https://github.com/hamdanideni/femc-interaction-rating-component)
+- Live Site URL: [https://hamdanideni.github.io/femc-interaction-rating-component/](https://hamdanideni.github.io/femc-interaction-rating-component/)
+
 ## Author
 
-- Website - [hamdanideni](https://www.your-site.com)
+- Website - [hamdanideni](https://hamdanideni.github.io/)
 - Frontend Mentor - [@hamdanideni](https://www.frontendmentor.io/profile/yourusername)
